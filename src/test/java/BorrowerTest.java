@@ -15,6 +15,7 @@ public class BorrowerTest {
         borrower = new Borrower();
         library = new Library();
         book = new Book();
+        library.addBook(book);
     }
 
     @Test
@@ -24,7 +25,7 @@ public class BorrowerTest {
 
     @Test
     public void addBookToCollection(){
-        borrower.addBookToCollection(book);
+        borrower.addBookToCollection(library);
         assertEquals(1, borrower.bookCollectionCount());
     }
 

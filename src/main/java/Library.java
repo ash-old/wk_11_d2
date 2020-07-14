@@ -21,8 +21,9 @@ public class Library {
         stock.add(book);
     }
 
-    public void removeBook() {
+    public Book removeBook() {
         if(this.stock.size() >= 1);
             stock.remove(0);
+        return null;
     }
 }

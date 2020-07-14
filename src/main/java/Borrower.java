@@ -15,9 +15,9 @@ public class Borrower {
     }
 
 
-    public void addBookToCollection(Book book) {
-//        if(library.bookCount() >= 1);
-//        library.removeBook();
+    public void addBookToCollection(Library library) {
+        if(library.bookCount() >= 1);
+        Book book = library.removeBook();
         this.bookCollection.add(book);
     }
 }

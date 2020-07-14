@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83fa4ef4-bb82-4a3f-bd65-a2227b258b86" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Book.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Borrower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Borrower.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Library.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/BorrowerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BorrowerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Book.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Borrower.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Borrower.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +42,15 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
-  <component name="RunManager" selected="JUnit.BorrowerTest">
+  <component name="RunManager" selected="JUnit.All in LibraryHomework">
+    <configuration name="All in LibraryHomework" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LibraryHomework" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BorrowerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LibraryHomework" />
       <option name="PACKAGE_NAME" value="" />
@@ -77,6 +81,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in LibraryHomework" />
         <item itemvalue="JUnit.BorrowerTest" />
         <item itemvalue="JUnit.BorrowerTest.addBookToCollection" />
         <item itemvalue="JUnit.LibraryTest" />
@@ -101,26 +106,26 @@
       <screen x="0" y="23" width="1680" height="980" />
     </state>
     <state x="543" y="115" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-108.-1057.1920.1057/0.23.1680.980@0.23.1680.980" timestamp="1594738625048" />
-    <state width="1358" height="251" key="GridCell.Tab.0.bottom" timestamp="1594758721381">
+    <state width="1358" height="251" key="GridCell.Tab.0.bottom" timestamp="1594764748379">
       <screen x="0" y="23" width="1680" height="980" />
     </state>
     <state width="1358" height="251" key="GridCell.Tab.0.bottom/-108.-1057.1920.1057/0.23.1680.980@0.23.1680.980" timestamp="1594744078728" />
-    <state width="1358" height="251" key="GridCell.Tab.0.bottom/0.23.1680.980@0.23.1680.980" timestamp="1594758721381" />
-    <state width="1358" height="251" key="GridCell.Tab.0.center" timestamp="1594758721381">
+    <state width="1358" height="251" key="GridCell.Tab.0.bottom/0.23.1680.980@0.23.1680.980" timestamp="1594764748379" />
+    <state width="1358" height="251" key="GridCell.Tab.0.center" timestamp="1594764748378">
       <screen x="0" y="23" width="1680" height="980" />
     </state>
     <state width="1358" height="251" key="GridCell.Tab.0.center/-108.-1057.1920.1057/0.23.1680.980@0.23.1680.980" timestamp="1594744078726" />
-    <state width="1358" height="251" key="GridCell.Tab.0.center/0.23.1680.980@0.23.1680.980" timestamp="1594758721381" />
-    <state width="1358" height="251" key="GridCell.Tab.0.left" timestamp="1594758721380">
+    <state width="1358" height="251" key="GridCell.Tab.0.center/0.23.1680.980@0.23.1680.980" timestamp="1594764748378" />
+    <state width="1358" height="251" key="GridCell.Tab.0.left" timestamp="1594764748378">
       <screen x="0" y="23" width="1680" height="980" />
     </state>
     <state width="1358" height="251" key="GridCell.Tab.0.left/-108.-1057.1920.1057/0.23.1680.980@0.23.1680.980" timestamp="1594744078726" />
-    <state width="1358" height="251" key="GridCell.Tab.0.left/0.23.1680.980@0.23.1680.980" timestamp="1594758721380" />
-    <state width="1358" height="251" key="GridCell.Tab.0.right" timestamp="1594758721381">
+    <state width="1358" height="251" key="GridCell.Tab.0.left/0.23.1680.980@0.23.1680.980" timestamp="1594764748378" />
+    <state width="1358" height="251" key="GridCell.Tab.0.right" timestamp="1594764748379">
       <screen x="0" y="23" width="1680" height="980" />
     </state>
     <state width="1358" height="251" key="GridCell.Tab.0.right/-108.-1057.1920.1057/0.23.1680.980@0.23.1680.980" timestamp="1594744078727" />
-    <state width="1358" height="251" key="GridCell.Tab.0.right/0.23.1680.980@0.23.1680.980" timestamp="1594758721381" />
+    <state width="1358" height="251" key="GridCell.Tab.0.right/0.23.1680.980@0.23.1680.980" timestamp="1594764748379" />
     <state width="1358" height="310" key="GridCell.Tab.1.bottom" timestamp="1594756811797">
       <screen x="0" y="23" width="1680" height="980" />
     </state>
