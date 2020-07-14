@@ -4,6 +4,7 @@ public class Library {
 
     private ArrayList<Book> stock;
     private int capacity;
+//    private String book;
 
     public Library(){
         this.stock = new ArrayList<Book>();
